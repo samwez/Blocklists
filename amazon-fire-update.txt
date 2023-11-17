@@ -1,0 +1,12 @@
+#################
+# blocks firestick from updating
+#
+#   amazon is pushing Vega OS
+#
+
+
+0.0.0.0 d1s31zyz7dcc2d.cloudfront.net
+0.0.0.0 amzdigital-a.akamaihd.net
+0.0.0.0 amzdigitaldownloads.edgesuite.net
+0.0.0.0 softwareupdates.amazon.com
+0.0.0.0 Updates.amazon.com
